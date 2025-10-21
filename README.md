@@ -1,3 +1,27 @@
+<style>
+@font-face { font-family: 'UN Abhaya'; src: url('UN-Abhaya-6-110-kern.ttf') format('truetype');}
+@font-face { font-family: 'UN Abhaya Bold'; src: url('UN-Abhaya-bold-2019-4-110.ttf') format('truetype');}
+@font-face { font-family: 'UN Alakamanda'; src: url('UN-Alakamanda-4-95.ttf') format('truetype');}
+@font-face { font-family: 'UN Arundathee'; src: url('UN-Arundathee.ttf') format('truetype');}
+@font-face { font-family: 'UN Basuru'; src: url('UN-Basuru.ttf') format('truetype');}
+@font-face { font-family: 'UN Bindumathi'; src: url('UN-Bindumathi.ttf') format('truetype');}
+@font-face { font-family: 'UN Davasa'; src: url('UN-Davasa.ttf') format('truetype');}
+@font-face { font-family: 'UN Derana'; src: url('UN-Derana.ttf') format('truetype');}
+@font-face { font-family: 'UN Dharanee'; src: url('UN-Dharanee.ttf') format('truetype');}
+@font-face { font-family: 'UN Disapamok'; src: url('UN-Disapamok.ttf') format('truetype');}
+@font-face { font-family: 'UN Ganganee'; src: url('UN-Ganganee.ttf') format('truetype');}
+@font-face { font-family: 'UN Gemunu'; src: url('UN-Gemunu.ttf') format('truetype');}
+@font-face { font-family: 'UN Gurulugomi'; src: url('UN-Gurulugomi.ttf') format('truetype');}
+@font-face { font-family: 'UN Imanee'; src: url('UN-Imanee.ttf') format('truetype');}
+@font-face { font-family: 'UN Indeewaree'; src: url('UN-Indeewaree.ttf') format('truetype');}
+@font-face { font-family: 'UN Isiwara'; src: url('UN-Isiwara.ttf') format('truetype');}
+@font-face { font-family: 'UN Malithi'; src: url('UN-Malithi-4.ttf') format('truetype');}
+@font-face { font-family: 'UN Rajantha'; src: url('UN-Rajantha.ttf') format('truetype');}
+@font-face { font-family: 'UN Rashmi'; src: url('UN-Rashmi.ttf') format('truetype');}
+@font-face { font-family: 'UN Samantha'; src: url('UN-Samantha.ttf') format('truetype');}
+@font-face { font-family: 'UN Sandhyanee'; src: url('UN-Sandhyanee.ttf') format('truetype');}
+</style>
+
 # Sinhala-Unicode-Fonts
 All Sinhala Unicode Fonts Created By Mr. Pushpananda
 
